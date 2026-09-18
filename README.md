@@ -21,5 +21,6 @@
 - 游戏结束/通关后，按任意键重新开始
 
 ## 游戏截图
-
+[
 ![alt text](image-1.png)
+](https://github.com/asdwrv/Arrow_Game/blob/main/image.png)
